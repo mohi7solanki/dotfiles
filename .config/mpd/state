@@ -1,0 +1,28 @@
+sw_volume: 100
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 6
+time: 86.436000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:01. The Ringer.mp3
+1:02. Greatest.mp3
+2:03. Lucky You (feat. Joyner Lucas).mp3
+3:04. Paul (Skit).mp3
+4:05. Normal.mp3
+5:06. Em Calls Paul (Skit).mp3
+6:07. Stepping Stone.mp3
+7:08. Not Alike (feat. Royce da 5'9_).mp3
+8:09. Fall.mp3
+9:10. Kamikaze.mp3
+10:11. Nice Guy (feat. Jessie Reyez).mp3
+11:12. Good Guy (feat. Jessie Reyez).mp3
+12:13. Venom (Music From the Motion Picture).mp3
+playlist_end

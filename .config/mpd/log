@@ -1,0 +1,107 @@
+Oct 11 14:02 : exception: Failed to open /home/mohit/.config/mpd/state: No such file or directory
+Oct 11 14:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 12:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 12:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 12:45 : client: [0] opened from 127.0.0.1:51876
+Oct 12 12:47 : client: [0] closed
+Oct 12 12:47 : client: [1] opened from 127.0.0.1:51882
+Oct 12 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 13:01 : client: [0] opened from 127.0.0.1:49264
+Oct 12 13:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 13:07 : client: [0] opened from 127.0.0.1:54114
+Oct 12 13:14 : client: [0] closed
+Oct 12 13:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 13:16 : client: [0] opened from 127.0.0.1:41022
+Oct 12 14:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 14:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 15:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 15:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 12 15:13 : client: [0] opened from 127.0.0.1:48342
+Oct 12 15:18 : client: [1] opened from 127.0.0.1:48498
+Oct 12 15:18 : exception: Not playing
+Oct 12 15:18 : client: [1] closed
+Oct 12 15:18 : client: [2] opened from 127.0.0.1:48502
+Oct 12 15:18 : exception: Not playing
+Oct 12 15:18 : client: [2] closed
+Oct 12 15:18 : client: [3] opened from 127.0.0.1:48506
+Oct 12 15:18 : exception: Not playing
+Oct 12 15:18 : client: [3] closed
+Oct 17 09:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 09:38 : client: [0] opened from 127.0.0.1:46316
+Oct 17 09:40 : client: [0] closed
+Oct 17 09:40 : client: [1] opened from 127.0.0.1:46324
+Oct 17 09:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 09:43 : client: [0] opened from 127.0.0.1:48570
+Oct 17 09:45 : client: [0] closed
+Oct 17 09:45 : client: [1] opened from 127.0.0.1:48578
+Oct 17 09:48 : client: [1] closed
+Oct 17 09:48 : client: [2] opened from 127.0.0.1:48694
+Oct 17 09:53 : client: [2] closed
+Oct 17 09:53 : client: [3] opened from 127.0.0.1:48782
+Oct 17 10:01 : client: [3] closed
+Oct 17 10:01 : client: [4] opened from 127.0.0.1:48898
+Oct 17 10:03 : client: [4] closed
+Oct 17 10:03 : client: [5] opened from 127.0.0.1:48918
+Oct 17 10:04 : client: [5] closed
+Oct 17 10:04 : client: [6] opened from 127.0.0.1:48920
+Oct 17 10:11 : client: [6] closed
+Oct 17 10:11 : client: [7] opened from 127.0.0.1:49108
+Oct 17 10:12 : client: [7] closed
+Oct 17 10:12 : client: [8] opened from 127.0.0.1:49112
+Oct 17 10:12 : client: [8] closed
+Oct 17 10:12 : client: [9] opened from 127.0.0.1:49114
+Oct 17 10:12 : client: [9] closed
+Oct 17 10:12 : client: [10] opened from 127.0.0.1:49116
+Oct 17 10:13 : client: [10] closed
+Oct 17 10:13 : client: [11] opened from 127.0.0.1:49122
+Oct 17 10:16 : client: [11] closed
+Oct 17 10:16 : client: [12] opened from 127.0.0.1:49124
+Oct 17 10:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:18 : client: [0] opened from 127.0.0.1:49222
+Oct 17 10:19 : client: [0] closed
+Oct 17 10:19 : client: [1] opened from 127.0.0.1:49230
+Oct 17 10:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:20 : client: [0] opened from 127.0.0.1:56142
+Oct 17 10:40 : client: [1] opened from 127.0.0.1:56564
+Oct 17 10:40 : client: [1] closed
+Oct 17 10:40 : client: [2] opened from 127.0.0.1:56568
+Oct 17 10:40 : client: [2] closed
+Oct 17 10:40 : update: added /12. Good Guy (feat. Jessie Reyez).mp3
+Oct 17 10:40 : update: added /08. Not Alike (feat. Royce da 5'9_).mp3
+Oct 17 10:40 : update: added /07. Stepping Stone.mp3
+Oct 17 10:40 : update: added /13. Venom (Music From the Motion Picture).mp3
+Oct 17 10:40 : update: added /09. Fall.mp3
+Oct 17 10:40 : update: added /02. Greatest.mp3
+Oct 17 10:40 : update: added /06. Em Calls Paul (Skit).mp3
+Oct 17 10:40 : update: added /01. The Ringer.mp3
+Oct 17 10:40 : update: added /05. Normal.mp3
+Oct 17 10:40 : update: added /03. Lucky You (feat. Joyner Lucas).mp3
+Oct 17 10:40 : update: added /04. Paul (Skit).mp3
+Oct 17 10:40 : update: added /11. Nice Guy (feat. Jessie Reyez).mp3
+Oct 17 10:40 : update: added /10. Kamikaze.mp3
+Oct 17 10:40 : client: [3] opened from 127.0.0.1:56572
+Oct 17 10:40 : client: [3] closed
+Oct 17 10:41 : client: [4] opened from 127.0.0.1:56576
+Oct 17 10:41 : client: [4] closed
+Oct 17 10:41 : client: [5] opened from 127.0.0.1:56580
+Oct 17 10:41 : client: [5] closed
+Oct 17 10:41 : client: [6] opened from 127.0.0.1:56582
+Oct 17 10:41 : client: [6] closed
+Oct 17 10:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:41 : client: [7] opened from 127.0.0.1:56584
+Oct 17 10:41 : client: [7] closed
+Oct 17 10:41 : player: played "01. The Ringer.mp3"
+Oct 17 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:42 : client: [0] opened from 127.0.0.1:42220
+Oct 17 10:58 : client: [1] opened from 127.0.0.1:42550
+Oct 17 10:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 17 10:58 : client: [1] closed
+Oct 17 11:03 : player: played "01. The Ringer.mp3"
+Oct 17 11:07 : player: played "02. Greatest.mp3"
+Oct 17 11:11 : player: played "03. Lucky You (feat. Joyner Lucas).mp3"
+Oct 17 11:11 : client: [2] opened from 127.0.0.1:42902
+Oct 17 11:11 : client: [2] closed
+Oct 17 11:15 : player: played "05. Normal.mp3"
+Oct 17 11:16 : player: played "06. Em Calls Paul (Skit).mp3"
+Oct 17 11:17 : client: [3] opened from 127.0.0.1:42928
+Oct 17 11:17 : client: [3] closed
