@@ -37,7 +37,9 @@ bindsym $mod+Shift+q kill
 
 # lock
 
-bindsym Control+Shift+l exec i3lock-next 
+bindsym $mod+l exec mantablockscreen -sc
+
+bindsym Control+Shift+l exec systemctl suspend && mantablockscreen -sc
 
 # start dmenu (a program launcher)
 # bindsym $mod+d exec dmenu_run
@@ -50,7 +52,7 @@ bindsym Control+Shift+l exec i3lock-next
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
-bindsym $mod+l focus up
+#bindsym $mod+l focus up
 bindsym $mod+semicolon focus right
 
 # alternatively, you can use the cursor keys:
@@ -219,7 +221,7 @@ bindsym Alt+Tab exec rofi -show-icons -show window
 exec_always --no-startup-id polybarstart
 
 exec --no-startup-id nitrogen --restore
-exec --no-startup-id compton -b
+exec --no-startup-id compton -b --dbus
 exec --no-startup-id dunst /home/mohit/.config/dunst
 
 # exec --no-startup-id nm-applet
@@ -232,7 +234,7 @@ smart_gaps on
 smart_borders on
 
 exec --no-startup-id syndaemon -K -i 0.2 -R -d 
-exec --no-startup-id xautolock -time 10 -locker 'i3lock-next'
+exec --no-startup-id xautolock -time 10 -locker 'mantablockscreen -sc'
 exec --no-startup-id mpd
 
 # Start Web Browser
